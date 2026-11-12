@@ -115,9 +115,6 @@ user:
 + [x] Intégrer Epitech
 + [x] Survivre à la piscine C
 ! [~] Maîtriser la programmation système Unix
-! [~] Construire un portfolio de projets solides
-- [ ] Décrocher un premier stage
-- [ ] Contribuer à un projet open source
 ```
 
 ## `~/contact`
